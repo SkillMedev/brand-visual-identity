@@ -1,8 +1,8 @@
 # Brand & Visual Identity
 
-**Six skills for building brands that look intentional from day one.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For founders and brand designers: ship an identity that looks intentional from day one.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
 
-A focused set of skills covering every layer of brand and visual identity work: naming, color, typography, moodboarding, logo briefing, and compositional hierarchy. Built for designers, brand strategists, and founders who need structured, opinionated guidance without guesswork.
+Turn a vague brand idea into a coherent, defensible visual identity — without a costly agency round. Reach for this pack when you are naming a new brand, briefing a designer, or building the look from scratch: it walks you from name and moodboard through color, type, and icons, locks in reading-order and hierarchy, and ends with a guidelines doc any teammate can apply. Opinionated, accessibility-aware, and structured so each decision builds on the last — for founders, brand strategists, and designers who want a brand that looks deliberate, not assembled.
 
 ⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
