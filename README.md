@@ -9,7 +9,7 @@ Turn a vague brand idea into a coherent, defensible visual identity — without 
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/brand-visual-identity](https://skillme.dev/pack/brand-visual-identity) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/brand-visual-identity`
+- **With the skills CLI:** `npx skills add SkillMedev/brand-visual-identity`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
