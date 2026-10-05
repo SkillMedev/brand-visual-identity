@@ -1,16 +1,17 @@
 # Brand & Visual Identity
 
-**For founders and brand designers: ship an identity that looks intentional from day one.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For founders and brand designers: ship an identity that looks intentional from day one.** — built in-house by [Skill&nbsp;Me](https://skillme.dev/?utm_source=github&utm_medium=readme&utm_campaign=pack-brand-visual-identity).
 
 Turn a vague brand idea into a coherent, defensible visual identity - without a costly agency round. Reach for this pack when you are naming a new brand, briefing a designer, or building the look from scratch: it walks you from name and moodboard through color, type, and icons, locks in reading-order and hierarchy, and ends with a guidelines doc any teammate can apply. Opinionated, accessibility-aware, and structured so each decision builds on the last - for founders, brand strategists, and designers who want a brand that looks deliberate, not assembled.
 
-⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
-
 ## Install
 
-- **From the catalog:** [skillme.dev/pack/brand-visual-identity](https://skillme.dev/pack/brand-visual-identity) — install the whole pack into Claude in one step.
+- **Claude, ChatGPT, Codex, Cursor (connector):** [install the whole pack from skillme.dev](https://skillme.dev/pack/brand-visual-identity?utm_source=github&utm_medium=readme&utm_campaign=pack-brand-visual-identity) — one connection, then ask for any skill by name.
+- **As files for Codex, Cursor, or Claude Code:** `npx @skillme/cli add logo-brief-writer color-palette-builder typography-system moodboard-builder visual-hierarchy brand-naming brand-guidelines icon-system --target all`
 - **With the skills CLI:** `npx skills add SkillMedev/brand-visual-identity`
-- **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
+- **Manually:** copy any `skills/<slug>/SKILL.md` into `.agents/skills/`, `.cursor/skills/`, or `.claude/skills/`.
+
+⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
 ## Skills in this pack
 
@@ -26,4 +27,4 @@ Turn a vague brand idea into a coherent, defensible visual identity - without a 
 ## License
 
 MIT — see [LICENSE](LICENSE). Skills are portable `SKILL.md` files; the canonical
-copies live in the [Skill&nbsp;Me catalog](https://skillme.dev).
+copies live in the [Skill&nbsp;Me catalog](https://skillme.dev/browse?utm_source=github&utm_medium=readme&utm_campaign=pack-brand-visual-identity).
